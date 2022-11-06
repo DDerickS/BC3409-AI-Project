@@ -1,4 +1,3 @@
-
 @import url(https://fonts.googleapis.com/css?family=Hind+Siliguri:300,600|Martel:400,900);
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
 
@@ -3017,7 +3016,7 @@ button.close {
 }
 .background-image-container {
   text-align: left;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(static/images/hero-bg.jpg);
 }
 .background-image-container,
 .footer-container {
