@@ -3,8 +3,8 @@
 
 ### Problem Statement
 * During the COVID-19 pandemic, spam texts saw an increase of 7.1 billion and nearly 85% of all emails are spam which translates to an approximately 122.33 billion messages globally within a year. 
-** In December 2021, at least 469 victims had fallen prey in phishing scams involving Short Message Service (SMS), impersonating OCBC bank. This resulted in a loss of no less than S$8.5 million.
-** Not limited to individuals, businesses are also often common targets of scammers. It was announced that S$70.8 million have been lost from organisations due to business email compromise scams since January 2022 (Tilo, 2022). 
+* - In December 2021, at least 469 victims had fallen prey in phishing scams involving Short Message Service (SMS), impersonating OCBC bank. This resulted in a loss of no less than S$8.5 million.
+* - Not limited to individuals, businesses are also often common targets of scammers. It was announced that S$70.8 million have been lost from organisations due to business email compromise scams since January 2022 (Tilo, 2022). 
 
 
 During the 
